@@ -1,0 +1,28 @@
+.box-sobre{
+    margin-top: 30px;
+    padding: 0 65px;
+    height: auto;
+    color: #2de2e6;
+}
+.box-sobre h1{
+    color:  #f6019d;
+    font-size: xx-large;
+}
+.box-sobre p{
+    font-size: medium;
+}
+.box-sobre p strong{
+    color: #f6019d;
+}
+.box-sobre .button-verMais{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-verMais a{
+    font-size: x-large;
+    color: #f6019d;
+    text-decoration: none;
+}

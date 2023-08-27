@@ -1,0 +1,41 @@
+.box-skill{
+    margin-top: 30px;
+    padding: 0 65px;
+    height: auto;
+    color: #2de2e6;
+    display: flex;
+}
+.box-skill .skill-left{
+    height: 300px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+.skill-left img{
+    height: 150px;
+}
+.skill-left h1{
+    font-size: xx-large;
+    margin-top: 15px;
+}
+.skill-left a{
+    font-size: larger;
+    color: #f6019d;
+    text-decoration: none;
+}
+
+.box-skill .skill-right{
+    height: 300px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+.skill-right h1{
+    font-size: xx-large;
+    padding: 5px 0;
+
+}

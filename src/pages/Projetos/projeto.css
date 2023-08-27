@@ -1,0 +1,21 @@
+.box-projetos{
+    margin-top: 30px;
+    /* padding: 0 65px; */
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-projetos .carousel{
+    width: 60%;
+    height: 100%;
+
+}
+.box-projetos .carousel .carousel-item{
+    text-align: center;
+}
+.box-projetos .carousel .carousel-item img{
+    width: 30%;
+    padding: 20px;
+
+}
