@@ -1,0 +1,54 @@
+.box-footer{
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+.box-footer .container-mapa{
+    display: flex;
+    width: 90%;
+    height: 500px;
+}
+.container-mapa iframe{
+    border-radius: 20px;
+}
+.box-footer .container-faleConosco{
+    width: 90%;
+    height: auto;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #f6019d;
+
+}
+.box-footer .contato{
+    display: flex;
+}
+.contato h2{
+    padding: 20px;
+}
+.box-footer .direitos{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.box-footer .icons-redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+}
+.icons-redes img{
+    height: 100px;
+    padding: 30px;
+    transition: 1s all ;
+}
+.icons-redes img:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+}
