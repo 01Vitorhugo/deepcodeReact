@@ -1,5 +1,6 @@
 import React from 'react';
 import './carousel.css';
+import './carouselQuery.css';
 import Carousel from 'react-bootstrap/Carousel';
 
 function Slide() {

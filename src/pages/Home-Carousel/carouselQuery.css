@@ -1,0 +1,13 @@
+@media (max-width: 375px){
+    .carouselPai{
+        height: 250px;
+        width: 100%;
+    }
+    .carouselPai .carousel{
+        width: 100%;
+        height: 100%;
+    }
+    .carousel-item img{
+        height: 250px;
+    }
+}

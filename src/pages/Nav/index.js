@@ -1,4 +1,5 @@
 import './nav.css';
+import './navQuery.css';
 import React from 'react';
 
 function Nav(){

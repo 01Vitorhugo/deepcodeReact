@@ -6,7 +6,6 @@ import Sobre from './pages/Sobre';
 import Skill from './pages/Skill';
 import Projetos from './pages/Projetos';
 import Footer from './pages/Footer';
-// import RoutesApp from "./routs";
 
 function App() {
   return (
