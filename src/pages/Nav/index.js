@@ -1,6 +1,7 @@
 import './nav.css';
 import './navQuery.css';
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Nav(){
 
@@ -8,11 +9,11 @@ function Nav(){
         <div className="navigation">
            <nav>
             <ul>
-                <li><a href="#">Quem somos</a></li>
-                <li><a href="#">O que fazemos</a></li>
-                <li><a href="#">Projetos</a></li>
-                <li><a href="#">Contato</a></li>
-                <li><a href="#">Login</a></li>
+                <li><Link to="/Quem-somos">Quem somos</Link></li>
+                <li><Link to="/OqueFazemos">O que fazemos</Link></li>
+                <li><Link to="/Projetos">Projetos</Link></li>
+                <li><Link to="/contato">Contato</Link></li>
+                <li><Link to="/2">Login</Link></li>
             </ul>
            </nav>
         </div>
