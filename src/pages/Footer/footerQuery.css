@@ -1,0 +1,31 @@
+@media (max-width: 500px){
+    .box-footer .container-mapa{
+        display: flex;
+        width: 97%;
+        height: 250px;
+    }
+    .container-mapa iframe{
+        border-radius: 10px;
+    }
+    .titulo h1{
+        font-size: medium;
+    }
+    .contato h2{
+        padding: 10px;
+        font-size: x-small;
+    }
+    .icons-redes{
+        overflow: hidden;
+    }
+    .icons-redes img{
+        height: 100px;
+        padding: 37px;
+        transition: 1s all ;
+    }
+    .direitos p{
+        font-size: small;
+    }
+
+}
+
+   

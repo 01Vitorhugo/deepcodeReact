@@ -1,0 +1,38 @@
+@media (max-width: 500px){
+    .box-skill{
+        padding: 10px;
+        height: 300px;
+        flex-direction: column;
+    }
+    .box-skill .skill-left{
+        height: 50%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center ;
+        flex-direction: column;
+    }
+    .skill-left img{
+        height: 70px;
+    }
+    .skill-left h1{
+        font-size: medium;
+        margin-top: 15px;
+    }
+    .skill-left a{
+        font-size: small;
+    }
+    .box-skill .skill-right{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+    .skill-right h1{
+        font-size: small;
+        padding: 5px 0;
+    
+    }
+}

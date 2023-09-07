@@ -1,5 +1,6 @@
 import React from 'react';
 import './sobre.css';
+import './sobreQuery.css';
 
 function Sobre(){
     return(

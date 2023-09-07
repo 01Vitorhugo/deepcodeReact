@@ -1,5 +1,6 @@
 import React from "react";
 import './skill.css';
+import './skillQuery.css';
 
 function Skill(){
     return(

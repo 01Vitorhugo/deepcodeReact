@@ -1,0 +1,17 @@
+@media (max-width: 500px){
+    .box-sobre{
+        padding: 10px;
+    }
+    .box-sobre h1{
+        color:  #f6019d;
+        font-size: larger;
+    }
+    .box-sobre p{
+        font-size: small;
+    }
+    .button-verMais a{
+        font-size: medium;
+        color: #f6019d;
+        text-decoration: none;
+    }
+}

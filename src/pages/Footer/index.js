@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import './footer.css';
+import './footerQuery.css';
 import { Link } from "react-router-dom";
 
 

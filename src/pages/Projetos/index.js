@@ -1,5 +1,6 @@
 import React from 'react';
 import './projeto.css';
+import './projetoQuery.css';
 import Carousel from 'react-bootstrap/Carousel';
 
 function Projetos() {
