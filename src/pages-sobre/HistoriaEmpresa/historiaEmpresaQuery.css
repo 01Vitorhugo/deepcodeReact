@@ -1,0 +1,26 @@
+@media (max-width: 360px){
+    .historiaEmpresa .fundador{
+        width: 50%;
+        height: 170px;
+    }
+    .historiaEmpresa .conteudoHistoria{
+        width: 60%;
+        height: 550px;
+    }
+    .conteudoHistoria p{
+        margin-bottom: 8px;
+    }
+}
+@media (min-width: 361px) and (max-width: 500px){
+    .historiaEmpresa .fundador{
+        width: 50%;
+        height: 180px;
+    
+    }
+    .historiaEmpresa .conteudoHistoria{
+        width: 60%;
+        height: auto;
+        padding: 0 10px;
+    }
+   
+}

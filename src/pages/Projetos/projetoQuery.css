@@ -1,4 +1,16 @@
-@media (max-width: 500px){
+@media (max-width: 360px){
+    .box-projetos{
+        height: 220px;
+    }
+    .box-projetos .carousel{
+        width: 100%;
+        height: 100%;
+    }
+    .box-projetos .carousel .carousel-item img{
+        width: 105px;
+    }
+}
+@media (min-width: 361px) and (max-width: 500px){
     .box-projetos{
         height: 270px;
     }
@@ -7,6 +19,6 @@
         height: 100%;
     }
     .box-projetos .carousel .carousel-item img{
-        width: 125px;
+        width: 120px;
     }
 }

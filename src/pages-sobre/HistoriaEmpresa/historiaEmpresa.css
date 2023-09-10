@@ -1,0 +1,34 @@
+.historiaEmpresa{
+    /* background-color: aliceblue; */
+    height: auto;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    margin-top: 30px;
+}
+.historiaEmpresa .fundador{
+    width: 40%;
+    height: 200px;
+
+}
+.fundador img{
+    height: 100%;
+    width: 100%;
+    border: solid 2px #f6019d;
+    border-radius: 7px;
+}
+.fundador p{
+    font-size: xx-small;
+    text-align: center;
+    margin-top: 10px;
+    color: #f6019d;
+    font-style: italic;
+}
+.historiaEmpresa .conteudoHistoria{
+    width: 60%;
+    height: auto;
+    padding: 0 10px;
+}
+.conteudoHistoria p{
+    font-size: small;
+}

@@ -23,9 +23,14 @@
     border: solid 2px white;
     background-color: #2de2e6;
 }
-.me-auto .nav-link{
+.me-auto a{
+    text-decoration: none;
     color: #2de2e6;
     text-align: center;
+    padding: 7px;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #2de2e6 !important;
 }
 .navbar-toggler:focus{
     box-shadow: none !important;

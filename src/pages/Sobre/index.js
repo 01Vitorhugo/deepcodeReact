@@ -1,6 +1,7 @@
 import React from 'react';
 import './sobre.css';
 import './sobreQuery.css';
+import { Link } from 'react-router-dom';
 
 function Sobre(){
     return(
@@ -24,7 +25,7 @@ function Sobre(){
             </p>
 
             <div className='button-verMais'>
-                <a href="#">Ver mais..</a>
+               <Link to="/pageSobre">Ver mais..</Link>
 
             </div>
         </div>

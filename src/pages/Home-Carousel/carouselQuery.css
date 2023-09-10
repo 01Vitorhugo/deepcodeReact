@@ -1,4 +1,18 @@
-@media (max-width: 500px){
+@media (max-width: 360px){
+    .carouselPai{
+        height: 200px;
+        width: 100%;
+    }
+    .carouselPai .carousel{
+        width: 95%;
+        height: 100%;
+    }
+    .carousel-item img{
+        height: 200px;
+    }
+  
+}
+@media (min-width: 361px) and (max-width: 500px){
     .carouselPai{
         height: 250px;
         width: 100%;

@@ -1,0 +1,24 @@
+.equipe{
+
+    height: auto;
+    width: 100%;
+}
+.equipe h1{
+    text-align: center;
+    font-size: larger;
+    color: #f6019d;
+}
+.equipe .membros{
+    width: 100%;
+    height: auto;
+    padding: 0 10px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.membros img{
+    width: 100px;
+    height: 100px;
+    padding: 5px 5px;
+    border-radius: 10px;
+}

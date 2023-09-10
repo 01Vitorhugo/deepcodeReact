@@ -1,0 +1,18 @@
+.historiaLogo{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    /* background-color: aliceblue; */
+    padding: 10px;
+}
+.historiaLogo h1{
+    text-align: center;
+    font-size: large;
+    color: #f6019d;
+    margin-top: 10px;
+}
+.historiaLogo h2{
+    font-size: medium;
+    margin-top: 10px;
+  
+}
