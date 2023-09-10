@@ -6,13 +6,13 @@
     flex-direction: column;
 }
 .error img{
-    height: 450px;
+    height: 400px;
     width: 100%;
-    /* position: absolute;
-    top: 0; */
+    position: absolute;
+    top: 0; 
 }
 .error h1{
-    margin-top: 300px;
+    margin-top: 400px;
     text-align: center;
     color: #f6019d;
     font-size: large;
@@ -42,9 +42,5 @@
     display: flex;
     justify-content: center;
 }
-.error .logo img{
-    height: 100%;
-    width: 45%;
-}
-    
+
     

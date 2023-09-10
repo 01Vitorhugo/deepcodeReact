@@ -10,11 +10,6 @@ function Error() {
                 <h1>Opss.. Página não encontrada</h1>
                 <h3>Voltara para <Link to="/">Home</Link></h3>
             </div>
-
-            <div className="logo">
-                <img src={require('../../Imgs/logo_12.jpg')} />
-            </div>
-
         </div>
     )
 }
